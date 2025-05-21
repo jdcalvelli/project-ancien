@@ -1,0 +1,6 @@
+{
+	"Lua.runtime.version": "Lua 5.4",
+	"Lua.workspace.library": ["/Users/vel/Developer/PlaydateSDK"],
+	"Lua.diagnostics.disable": ["undefined-global", "lowercase-global"],
+	"Lua.diagnostics.globals": ["playdate", "import"],
+}
